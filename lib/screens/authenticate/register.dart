@@ -1,4 +1,3 @@
-import 'package:brew_crew/screens/authenticate/sign_in.dart';
 import 'package:brew_crew/services/auth.dart';
 import 'package:brew_crew/shared/constants.dart';
 import 'package:brew_crew/shared/loading.dart';
