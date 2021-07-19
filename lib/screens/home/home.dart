@@ -20,7 +20,7 @@ class Home extends StatelessWidget{
           context: context,
           builder: (context){
             return Container(
-              padding: EdgeInsets.symmetric(
+              padding: const EdgeInsets.symmetric(
                 vertical: 20.0,
                 horizontal: 60.0
                 ),
